@@ -11,6 +11,7 @@ Colección de trabajos académicos desarrollados durante la formación en Ingeni
 | `03-validacion-y-pipelines.ipynb` | Hold-out, validación cruzada, prevención de fuga de datos, pipelines y transformaciones |
 | `04-regresion-logistica-desde-cero.ipynb` | Sigmoide, entropía cruzada, gradiente, ajuste e interpretación de coeficientes |
 | `05-gradient-descent-desde-cero.ipynb` | Batch, SGD, mini-batches, learning rate, escalado y comparación con scikit-learn |
+| `06-desbalance-y-remuestreo.ipynb` | Clases desbalanceadas, SMOTE, submuestreo, validación sin fugas, calibración y selección de umbrales |
 
 ## Enfoque
 
