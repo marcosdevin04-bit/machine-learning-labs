@@ -12,6 +12,7 @@ Colección de trabajos académicos desarrollados durante la formación en Ingeni
 | `04-regresion-logistica-desde-cero.ipynb` | Sigmoide, entropía cruzada, gradiente, ajuste e interpretación de coeficientes |
 | `05-gradient-descent-desde-cero.ipynb` | Batch, SGD, mini-batches, learning rate, escalado y comparación con scikit-learn |
 | `06-desbalance-y-remuestreo.ipynb` | Clases desbalanceadas, SMOTE, submuestreo, validación sin fugas, calibración y selección de umbrales |
+| `07-sesgo-varianza-y-regularizacion.ipynb` | Descomposición sesgo-varianza, curvas de aprendizaje, Ridge, Lasso y selección de regularización |
 
 ## Enfoque
 
