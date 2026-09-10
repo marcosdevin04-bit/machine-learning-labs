@@ -13,6 +13,9 @@ Colección de trabajos académicos desarrollados durante la formación en Ingeni
 | `05-gradient-descent-desde-cero.ipynb` | Batch, SGD, mini-batches, learning rate, escalado y comparación con scikit-learn |
 | `06-desbalance-y-remuestreo.ipynb` | Clases desbalanceadas, SMOTE, submuestreo, validación sin fugas, calibración y selección de umbrales |
 | `07-sesgo-varianza-y-regularizacion.ipynb` | Descomposición sesgo-varianza, curvas de aprendizaje, Ridge, Lasso y selección de regularización |
+| `08-knn-desde-cero.ipynb` | Distancias, vecindarios, voto, efecto de k y comparación con scikit-learn |
+| `09-knn-clasificacion.ipynb` | k-NN de clasificación, variables categóricas, escalado, pipelines y validación cruzada |
+| `10-knn-regresion.ipynb` | k-NN de regresión, preprocesamiento mixto, selección de k y evaluación predictiva |
 
 ## Enfoque
 
