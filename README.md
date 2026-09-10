@@ -17,10 +17,6 @@ Colección de trabajos académicos desarrollados durante la formación en Ingeni
 | `09-knn-clasificacion.ipynb` | k-NN de clasificación, variables categóricas, escalado, pipelines y validación cruzada |
 | `10-knn-regresion.ipynb` | k-NN de regresión, preprocesamiento mixto, selección de k y evaluación predictiva |
 
-## Proyecto integrador
-
-- [Consigna — Priorización de reclamos operativos de OSE](docs/consigna-proyecto-reclamos-ose.pdf): proyecto de regresión y clasificación sobre datos abiertos de solicitudes y reclamos operativos, con énfasis en pipelines, prevención de fuga de datos, validación y decisiones basadas en costos.
-
 ## Enfoque
 
 - Implementación de algoritmos desde sus fundamentos.
