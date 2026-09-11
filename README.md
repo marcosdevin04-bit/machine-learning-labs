@@ -16,6 +16,7 @@ Colección de trabajos académicos desarrollados durante la formación en Ingeni
 | `08-knn-desde-cero.ipynb` | Distancias, vecindarios, voto, efecto de k y comparación con scikit-learn |
 | `09-knn-clasificacion.ipynb` | k-NN de clasificación, variables categóricas, escalado, pipelines y validación cruzada |
 | `10-knn-regresion.ipynb` | k-NN de regresión, preprocesamiento mixto, selección de k y evaluación predictiva |
+| `11-fugas-de-informacion.ipynb` | Fugas de información, duplicados, codificación de variables, pipelines y diagnóstico de datos faltantes |
 
 ## Enfoque
 
