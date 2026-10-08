@@ -17,6 +17,10 @@ Colección de trabajos académicos desarrollados durante la formación en Ingeni
 | `09-knn-clasificacion.ipynb` | k-NN de clasificación, variables categóricas, escalado, pipelines y validación cruzada |
 | `10-knn-regresion.ipynb` | k-NN de regresión, preprocesamiento mixto, selección de k y evaluación predictiva |
 | `11-fugas-de-informacion.ipynb` | Fugas de información, duplicados, codificación de variables, pipelines y diagnóstico de datos faltantes |
+| `12-arboles-hiperparametros-sintetico-controlado-corregido.ipynb` | Árboles de decisión, control de complejidad y ajuste de hiperparámetros |
+| `14-bagging-y-random-forests.ipynb` | Bagging, árboles aleatorios, Random Forests y reducción de varianza |
+| `16-adaboost-desde-cero.ipynb` | AdaBoost desde cero, pesos de observaciones, clasificadores débiles y aprendizaje secuencial |
+| `17-maquinas-vectores-soporte.ipynb` | Máquinas de vectores de soporte, margen, formulación dual, kernels y vectores de soporte |
 
 ## Enfoque
 
