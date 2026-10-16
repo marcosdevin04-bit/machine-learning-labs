@@ -21,7 +21,7 @@ Colección de trabajos académicos desarrollados durante la formación en Ingeni
 | `14-bagging-y-random-forests.ipynb` | Bagging, árboles aleatorios, Random Forests y reducción de varianza |
 | `16-adaboost-desde-cero.ipynb` | AdaBoost desde cero, pesos de observaciones, clasificadores débiles y aprendizaje secuencial |
 | `17-maquinas-vectores-soporte.ipynb` | Máquinas de vectores de soporte, margen, formulación dual, kernels y vectores de soporte |
-| [`19-redes-convolucionales-filtros.ipynb`](notebooks/19-redes-convolucionales-filtros.ipynb) | Convolución desde cero, filtros, ReLU, pooling, pesos compartidos, Fashion-MNIST, aumento de datos y comparación con una red densa |
+| `19-redes-convolucionales-filtros.ipynb` | Convolución desde cero, filtros, ReLU, pooling, pesos compartidos, Fashion-MNIST, aumento de datos y comparación con una red densa |
 
 ## Enfoque
 
