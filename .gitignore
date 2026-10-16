@@ -5,3 +5,4 @@ __pycache__/
 notebooks/heart_sin_codigos.csv
 *.py[cod]
 .DS_Store
+datos_torchvision/

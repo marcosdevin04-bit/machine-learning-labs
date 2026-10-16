@@ -5,3 +5,5 @@ pandas
 scikit-learn
 scipy
 
+torch
+torchvision
