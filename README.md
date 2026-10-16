@@ -13,7 +13,6 @@ Colección de trabajos académicos desarrollados durante la formación en Ingeni
 | `05-gradient-descent-desde-cero.ipynb` | Batch, SGD, mini-batches, learning rate, escalado y comparación con scikit-learn |
 | `06-desbalance-y-remuestreo.ipynb` | Clases desbalanceadas, SMOTE, submuestreo, validación sin fugas, calibración y selección de umbrales |
 | `07-sesgo-varianza-y-regularizacion.ipynb` | Descomposición sesgo-varianza, curvas de aprendizaje, Ridge, Lasso y selección de regularización |
-| `19-redes-convolucionales-filtros.ipynb` | Convolución desde cero, filtros, ReLU, pooling, pesos compartidos, Fashion-MNIST, aumento de datos y comparación con una red densa |
 | `08-knn-desde-cero.ipynb` | Distancias, vecindarios, voto, efecto de k y comparación con scikit-learn |
 | `09-knn-clasificacion.ipynb` | k-NN de clasificación, variables categóricas, escalado, pipelines y validación cruzada |
 | `10-knn-regresion.ipynb` | k-NN de regresión, preprocesamiento mixto, selección de k y evaluación predictiva |
@@ -22,6 +21,7 @@ Colección de trabajos académicos desarrollados durante la formación en Ingeni
 | `14-bagging-y-random-forests.ipynb` | Bagging, árboles aleatorios, Random Forests y reducción de varianza |
 | `16-adaboost-desde-cero.ipynb` | AdaBoost desde cero, pesos de observaciones, clasificadores débiles y aprendizaje secuencial |
 | `17-maquinas-vectores-soporte.ipynb` | Máquinas de vectores de soporte, margen, formulación dual, kernels y vectores de soporte |
+| [`19-redes-convolucionales-filtros.ipynb`](notebooks/19-redes-convolucionales-filtros.ipynb) | Convolución desde cero, filtros, ReLU, pooling, pesos compartidos, Fashion-MNIST, aumento de datos y comparación con una red densa |
 
 ## Enfoque
 
