@@ -23,6 +23,7 @@ Colección de trabajos académicos desarrollados durante la formación en Ingeni
 | `17-maquinas-vectores-soporte.ipynb` | Máquinas de vectores de soporte, margen, formulación dual, kernels y vectores de soporte |
 | `19-redes-convolucionales-filtros.ipynb` | Convolución desde cero, filtros, ReLU, pooling, pesos compartidos, Fashion-MNIST, aumento de datos y comparación con una red densa |
 | `21-agrupamiento-tres-casos.ipynb` | K-medias, Ward y DBSCAN; silueta, ARI, escalado y análisis de parcelas, estados y clientes |
+| `22-pca-desde-cero.ipynb` | PCA por SVD desde cero, reconstrucción, reducción de ruido, visualización de clientes, pipelines con validación cruzada y ejercicios de análisis crítico |
 
 ## Enfoque
 
@@ -41,7 +42,7 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
-Abrir los notebooks en el orden indicado. Algunos conjuntos de datos educativos se descargan desde su fuente pública al ejecutar las primeras celdas. El dataset de mantenimiento industrial y los tres CSV del laboratorio 21 se incluyen en `data/`. Las fuentes públicas de los CSV se documentan en el notebook.
+Abrir los notebooks en el orden indicado. Algunos conjuntos de datos educativos se descargan desde su fuente pública al ejecutar las primeras celdas. El dataset de mantenimiento industrial y los CSV de los laboratorios 21 y 22 se incluyen en `data/`. Las fuentes públicas de los CSV se documentan en el notebook.
 
 ## Tecnologías
 
